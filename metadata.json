@@ -1,0 +1,6 @@
+{
+  "name": "Coupe Mur Ossature Bois",
+  "description": "Visualisation interactive et calcul thermique d'une coupe technique de mur à ossature bois (MOB).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
